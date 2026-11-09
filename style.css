@@ -17,3 +17,9 @@ img {
     align-items: center;
 
 }
+
+img {
+    display: flex;
+    flex-direction: space-around;
+
+}
