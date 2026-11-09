@@ -1,0 +1,19 @@
+h1 {
+    color: aquamarine
+}
+
+.selection {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: beige;
+}
+
+img {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+}
